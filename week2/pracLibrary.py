@@ -41,29 +41,29 @@ def scoresum(m,f,h):
 def gradeScale(sum):
     if sum > 97:
         return 'A+'
-    if sum > 93:
+    elif sum > 93:
         return 'A'
-    if sum > 90:
+    elif sum > 90:
         return 'A-'
-    if sum > 87:
+    elif sum > 87:
         return 'B+'
-    if sum > 83:
+    elif sum > 83:
         return 'B'
-    if sum > 80:
+    elif sum > 80:
         return 'B-'
-    if sum > 77:
+    elif sum > 77:
         return 'C+'
-    if sum > 73:
+    elif sum > 73:
         return 'C'
-    if sum > 70:
+    elif sum > 70:
         return 'C-'
-    if sum > 67:
+    elif sum > 67:
         return 'D+'
-    if sum > 63:
+    elif sum > 63:
         return 'D'
-    if sum > 60:
+    elif sum > 60:
         return 'D-'
-    if sum < 59:
+    elif sum < 59:
         return 'F'
     return
 
@@ -77,11 +77,17 @@ def score():
 def scoreloop(n):
     smax = 0
     smin = 0
-    score = 0
+    sbase = 0
 
     for i in range(1,n+1,1):
         score =  input('Enter score of student number {} :'.format(i))
-        if score
+        score = float(score)
+
+        if score > smax:
+            smax = score
+        elif score < smin:
+            smin = score
+
 
 
 def _109main():
