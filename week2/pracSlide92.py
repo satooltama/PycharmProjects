@@ -1,3 +1,3 @@
-from pracLibrary import menu
+from pracLibrary import _92main
 
-menu()
+_92main()

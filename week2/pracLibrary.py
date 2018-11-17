@@ -1,17 +1,5 @@
 import math as m
 
-def menu():
-    line()
-    print('                 MENU                  ')
-    line()
-    print('C or c Area of circle')
-    print('S or s Area of Regtangle')
-    line()
-    choice = input('Enter your Choice :')
-    line()
-    checkChoice(choice)
-    line()
-
 def line():
     print('*'*40)
 
@@ -72,13 +60,6 @@ def gradeScale(sum):
         return 'F'
     return
 
-def score():
-    print('Input Score')
-    m = input('1.Midterm    :')
-    f = input('2.Final      :')
-    h = input('3.Homework   :')
-    print('Your Grade = {}'.format(gradeScale(scoresum(m,f,h))))
-
 def scoreloop(n):
 
     smin = 0
@@ -106,6 +87,35 @@ def scoreloop(n):
 
     return print('AVEARG SCORE = {0:.2f} \nMAX SCORE = {1:.2f} \nMIN SCORE = {2:.2f}'.format(avg,smax,smin))
 
+def YearCal(p,d,y):
+
+    for i in range(y):
+        dp = d * p / 100
+        recentprice = p - dp
+        print('After use {0} Year : Reduce = {1:,.2f} BATH    Price = {2:,.2f}'.format(i+1,dp,recentprice))
+        p = recentprice
+    return
+
+def
+
+def _92main():
+    line()
+    print('                 MENU                  ')
+    line()
+    print('C or c Area of circle')
+    print('S or s Area of Regtangle')
+    line()
+    choice = input('Enter your Choice :')
+    line()
+    checkChoice(choice)
+    line()
+
+def _94main():
+    print('Input Score')
+    m = input('1.Midterm    :')
+    f = input('2.Final      :')
+    h = input('3.Homework   :')
+    print('Your Grade = {}'.format(gradeScale(scoresum(m,f,h))))
 
 def _109main():
 
@@ -127,12 +137,7 @@ def _111main():
     YearCal(pricecar,dperyear,yearcount)
     line()
 
-
-def YearCal(p,d,y):
-
-    for i in range(y):
-        dp = d * p / 100
-        recentprice = p - dp
-        print('After use {0} Year : Reduce = {1:,.2f} BATH    Price = {2:,.2f}'.format(i+1,dp,recentprice))
-        p = recentprice
-    return
+def _113main():
+    i = input('Input i :')
+    j = input('Input j :')
+    n = input('Input N :')

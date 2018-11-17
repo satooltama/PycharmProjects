@@ -1,3 +1,3 @@
-from pracLibrary import score
+from pracLibrary import _94main
 
-score()
+_94main()
