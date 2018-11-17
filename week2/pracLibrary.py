@@ -96,7 +96,16 @@ def YearCal(p,d,y):
         p = recentprice
     return
 
-def
+def zetacal(i,j,N):
+
+    sum = 0
+
+    for i in range(i,j+1,1):
+        print('({0}-10)^{1}*{0}'.format(i,N))
+        sum += m.pow(i-10,N)*i
+    line()
+    return print('Answer is {0}'.format(sum))
+
 
 def _92main():
     line()
@@ -140,4 +149,10 @@ def _111main():
 def _113main():
     i = input('Input i :')
     j = input('Input j :')
-    n = input('Input N :')
+    N = input('Input N :')
+    i = int(i)
+    j = int(j)
+    N = int(N)
+    line()
+    zetacal(i,j,N)
+    line()

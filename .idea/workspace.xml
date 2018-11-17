@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="69d7cbe1-c992-4e4d-bfe9-f2470139a7a5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/week2/pracLibrary.py" beforeDir="false" afterPath="$PROJECT_DIR$/week2/pracLibrary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/pracSlide92.py" beforeDir="false" afterPath="$PROJECT_DIR$/week2/pracSlide92.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/pracSlide94.py" beforeDir="false" afterPath="$PROJECT_DIR$/week2/pracSlide94.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/pracSlide113.py" beforeDir="false" afterPath="$PROJECT_DIR$/week2/pracSlide113.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +19,8 @@
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -35,12 +35,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="2337" />
+          <entry key="py" value="2622" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="2337" />
+          <entry key="Python" value="2622" />
         </counts>
       </usages-collector>
     </session>
@@ -50,12 +50,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week2/pracLibrary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="98" column="3" selection-start-line="98" selection-start-column="3" selection-end-line="98" selection-end-column="3" />
+            <state relative-caret-position="560">
+              <caret line="157" column="4" selection-start-line="157" selection-start-column="4" selection-end-line="157" selection-end-column="4" />
               <folding>
-                <marker date="1542434704699" expanded="true" signature="2408:2409" ph="..." />
-                <marker date="1542434704699" expanded="true" signature="2542:2547" ph="..." />
-                <marker date="1542434704699" expanded="true" signature="2944:2972" ph="..." />
+                <marker date="1542447006699" expanded="true" signature="1958:2138" ph="..." />
+                <marker date="1542447006699" expanded="true" signature="2152:2157" ph="..." />
+                <marker date="1542447006699" expanded="true" signature="2602:2603" ph="..." />
+                <marker date="1542447006699" expanded="true" signature="2736:2741" ph="..." />
+                <marker date="1542447006699" expanded="true" signature="3138:3166" ph="..." />
               </folding>
             </state>
           </provider>
@@ -63,7 +65,11 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week2/pracSlide113.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -80,12 +86,13 @@
         <option value="$PROJECT_DIR$/week2/pracSlide111.py" />
         <option value="$PROJECT_DIR$/week2/pracSlide92.py" />
         <option value="$PROJECT_DIR$/week2/pracSlide94.py" />
+        <option value="$PROJECT_DIR$/week2/pracSlide113.py" />
         <option value="$PROJECT_DIR$/week2/pracLibrary.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="215" />
+    <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -97,7 +104,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,6 +120,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -131,28 +138,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pracSlide94">
-    <configuration name="Homework1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework 1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework 1/Homework1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.pracSlide113">
     <configuration name="for" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -237,6 +223,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pracSlide113" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/pracSlide113.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="pracSlide92" type="PythonConfigurationType" factoryName="Python">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -282,19 +289,19 @@
     <list>
       <item itemvalue="Python.pracLibrary" />
       <item itemvalue="Python.pracSlide92" />
-      <item itemvalue="Python.Homework1" />
       <item itemvalue="Python.pracSlide109" />
       <item itemvalue="Python.for" />
       <item itemvalue="Python.pracSlide111" />
       <item itemvalue="Python.pracSlide94" />
+      <item itemvalue="Python.pracSlide113" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pracSlide113" />
         <item itemvalue="Python.pracSlide94" />
         <item itemvalue="Python.pracSlide111" />
         <item itemvalue="Python.pracSlide109" />
         <item itemvalue="Python.for" />
-        <item itemvalue="Python.Homework1" />
       </list>
     </recent_temporary>
   </component>
@@ -321,15 +328,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="215" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20833333" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20833333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22015335" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22015335" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -441,16 +448,22 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week2/pracSlide113.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week2/pracLibrary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="98" column="3" selection-start-line="98" selection-start-column="3" selection-end-line="98" selection-end-column="3" />
+        <state relative-caret-position="560">
+          <caret line="157" column="4" selection-start-line="157" selection-start-column="4" selection-end-line="157" selection-end-column="4" />
           <folding>
-            <marker date="1542434704699" expanded="true" signature="2408:2409" ph="..." />
-            <marker date="1542434704699" expanded="true" signature="2542:2547" ph="..." />
-            <marker date="1542434704699" expanded="true" signature="2944:2972" ph="..." />
+            <marker date="1542447006699" expanded="true" signature="1958:2138" ph="..." />
+            <marker date="1542447006699" expanded="true" signature="2152:2157" ph="..." />
+            <marker date="1542447006699" expanded="true" signature="2602:2603" ph="..." />
+            <marker date="1542447006699" expanded="true" signature="2736:2741" ph="..." />
+            <marker date="1542447006699" expanded="true" signature="3138:3166" ph="..." />
           </folding>
         </state>
       </provider>
