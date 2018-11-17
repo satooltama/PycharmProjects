@@ -75,18 +75,26 @@ def score():
     print('Your Grade = {}'.format(gradeScale(scoresum(m,f,h))))
 
 def scoreloop(n):
-    smax = 0
     smin = 0
-    sbase = 0
+    smax = 0
+    ssum = 0
+    avg  = 0
+    for i in range(n):
+        ss = input('Enter score of student number {} :'.format(i+1))
+        ssum += ss
+        if i == 0:
+            smin = ss
+            smax = ss
+        elif ss > smax:
+            smax = ss
+        elif ss < smin:
+            smin = ss
+    avg = ssum / n
 
-    for i in range(1,n+1,1):
-        score =  input('Enter score of student number {} :'.format(i))
-        score = float(score)
+    return 
 
-        if score > smax:
-            smax = score
-        elif score < smin:
-            smin = score
+
+def sum(n):
 
 
 
