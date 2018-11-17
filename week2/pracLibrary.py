@@ -58,7 +58,6 @@ def gradeScale(sum):
         return 'D-'
     elif sum < 59:
         return 'F'
-    return
 
 def scoreloop(n):
 
@@ -85,7 +84,7 @@ def scoreloop(n):
 
     line()
 
-    return print('AVEARG SCORE = {0:.2f} \nMAX SCORE = {1:.2f} \nMIN SCORE = {2:.2f}'.format(avg,smax,smin))
+    print('AVEARG SCORE = {0:.2f} \nMAX SCORE = {1:.2f} \nMIN SCORE = {2:.2f}'.format(avg,smax,smin))
 
 def YearCal(p,d,y):
 
@@ -94,7 +93,7 @@ def YearCal(p,d,y):
         recentprice = p - dp
         print('After use {0} Year : Reduce = {1:,.2f} BATH    Price = {2:,.2f}'.format(i+1,dp,recentprice))
         p = recentprice
-    return
+
 
 def zetacal(i,j,N):
 
@@ -104,7 +103,7 @@ def zetacal(i,j,N):
         print('({0}-10)^{1}*{0}'.format(i,N))
         sum += m.pow(i-10,N)*i
     line()
-    return print('Answer is {0}'.format(sum))
+    print('Answer is {0}'.format(sum))
 
 
 def _92main():

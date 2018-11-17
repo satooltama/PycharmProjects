@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="69d7cbe1-c992-4e4d-bfe9-f2470139a7a5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/week2/pracLibrary.py" beforeDir="false" afterPath="$PROJECT_DIR$/week2/pracLibrary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/pracSlide113.py" beforeDir="false" afterPath="$PROJECT_DIR$/week2/pracSlide113.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,40 +24,76 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="27" />
+          <entry key="py" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="27" />
+          <entry key="Python" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="2622" />
+          <entry key="py" value="2642" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="2622" />
+          <entry key="Python" value="2642" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week2/pracLibrary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="157" column="4" selection-start-line="157" selection-start-column="4" selection-end-line="157" selection-end-column="4" />
+            <state relative-caret-position="405">
+              <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
               <folding>
-                <marker date="1542447006699" expanded="true" signature="1958:2138" ph="..." />
-                <marker date="1542447006699" expanded="true" signature="2152:2157" ph="..." />
-                <marker date="1542447006699" expanded="true" signature="2602:2603" ph="..." />
-                <marker date="1542447006699" expanded="true" signature="2736:2741" ph="..." />
-                <marker date="1542447006699" expanded="true" signature="3138:3166" ph="..." />
+                <marker date="1542447444479" expanded="true" signature="1930:2103" ph="..." />
+                <marker date="1542447444479" expanded="true" signature="2117:2122" ph="..." />
+                <marker date="1542447444479" expanded="true" signature="2567:2568" ph="..." />
+                <marker date="1542447444479" expanded="true" signature="2701:2706" ph="..." />
+                <marker date="1542447444479" expanded="true" signature="3103:3131" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week2/pracSlide111.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week2/pracSlide109.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week2/pracSlide94.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week2/pracSlide92.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -91,7 +126,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -138,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pracSlide113">
+  <component name="RunManager" selected="Python.pracSlide92">
     <configuration name="for" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -297,10 +332,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pracSlide113" />
         <item itemvalue="Python.pracSlide94" />
-        <item itemvalue="Python.pracSlide111" />
         <item itemvalue="Python.pracSlide109" />
+        <item itemvalue="Python.pracSlide111" />
+        <item itemvalue="Python.pracSlide113" />
         <item itemvalue="Python.for" />
       </list>
     </recent_temporary>
@@ -328,15 +363,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20833333" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10273973" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22015335" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31344903" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -419,24 +453,24 @@
     <entry file="file://$PROJECT_DIR$/week2/bmi.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/week2/pracSlide109.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week2/pracSlide92.py">
+    <entry file="file://$PROJECT_DIR$/week2/pracSlide113.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week2/pracSlide94.py">
+    <entry file="file://$PROJECT_DIR$/week2/pracLibrary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="405">
+          <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+          <folding>
+            <marker date="1542447444479" expanded="true" signature="1930:2103" ph="..." />
+            <marker date="1542447444479" expanded="true" signature="2117:2122" ph="..." />
+            <marker date="1542447444479" expanded="true" signature="2567:2568" ph="..." />
+            <marker date="1542447444479" expanded="true" signature="2701:2706" ph="..." />
+            <marker date="1542447444479" expanded="true" signature="3103:3131" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -447,24 +481,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week2/pracSlide113.py">
+    <entry file="file://$PROJECT_DIR$/week2/pracSlide109.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week2/pracLibrary.py">
+    <entry file="file://$PROJECT_DIR$/week2/pracSlide94.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="157" column="4" selection-start-line="157" selection-start-column="4" selection-end-line="157" selection-end-column="4" />
-          <folding>
-            <marker date="1542447006699" expanded="true" signature="1958:2138" ph="..." />
-            <marker date="1542447006699" expanded="true" signature="2152:2157" ph="..." />
-            <marker date="1542447006699" expanded="true" signature="2602:2603" ph="..." />
-            <marker date="1542447006699" expanded="true" signature="2736:2741" ph="..." />
-            <marker date="1542447006699" expanded="true" signature="3138:3166" ph="..." />
-          </folding>
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/pracSlide92.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
