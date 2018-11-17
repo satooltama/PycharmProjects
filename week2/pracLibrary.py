@@ -35,7 +35,12 @@ def checkChoice(c):
         return print('AREA = {0:.2f}'.format(regtangleArea(float(w),float(l))))
 
 def scoresum(m,f,h):
-    sum = int(m)+int(f)+int(h)
+    m = int(m)*0.3
+    f = int(f)*0.5
+    h = int(h)*0.2
+
+    sum = m+f+h
+
     return sum
 
 def gradeScale(sum):
@@ -75,13 +80,18 @@ def score():
     print('Your Grade = {}'.format(gradeScale(scoresum(m,f,h))))
 
 def scoreloop(n):
+
     smin = 0
     smax = 0
     ssum = 0
     avg  = 0
+
     for i in range(n):
+
         ss = input('Enter score of student number {} :'.format(i+1))
+        ss = float(ss)
         ssum += ss
+
         if i == 0:
             smin = ss
             smax = ss
@@ -89,16 +99,40 @@ def scoreloop(n):
             smax = ss
         elif ss < smin:
             smin = ss
-    avg = ssum / n
 
-    return 
+    avg = float(ssum) / n
 
+    line()
 
-def sum(n):
-
+    return print('AVEARG SCORE = {0:.2f} \nMAX SCORE = {1:.2f} \nMIN SCORE = {2:.2f}'.format(avg,smax,smin))
 
 
 def _109main():
+
     snum = input('How many student in your class :')
     line()
     scoreloop(int(snum))
+    line()
+
+def _111main():
+    pricecar = input('Input Price of car :')
+    dperyear = input('Input depreciation per year (%) :')
+    yearcount = input('Input how many year you want to see :')
+    pricecar = float(pricecar)
+    dperyear = int(dperyear)
+    yearcount = int(yearcount)
+    line()
+    print('Price of Car = {0:,.2f}'.format(pricecar))
+    line()
+    YearCal(pricecar,dperyear,yearcount)
+    line()
+
+
+def YearCal(p,d,y):
+
+    for i in range(y):
+        dp = d * p / 100
+        recentprice = p - dp
+        print('After use {0} Year : Reduce = {1:,.2f} BATH    Price = {2:,.2f}'.format(i+1,dp,recentprice))
+        p = recentprice
+    return
