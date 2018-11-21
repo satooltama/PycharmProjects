@@ -61,8 +61,5 @@ def checkNumber(*amout,see):
                 x += 1
             elif i < avg:
                 y += 1
-
-
-
     return x,y
 
