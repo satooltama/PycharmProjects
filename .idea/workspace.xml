@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69d7cbe1-c992-4e4d-bfe9-f2470139a7a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="69d7cbe1-c992-4e4d-bfe9-f2470139a7a5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,61 +45,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pracLibrary.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2/pracLibrary.py">
+      <file leaf-file-name="ex.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week2.1/ex.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pracSlide111.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2/pracSlide111.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pracSlide109.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2/pracSlide109.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pracSlide94.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2/pracSlide94.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pracSlide92.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/week2/pracSlide92.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pracSlide113.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2/pracSlide113.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            <state relative-caret-position="132">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -117,6 +77,7 @@
         <option value="$PROJECT_DIR$/week2/pracSlide94.py" />
         <option value="$PROJECT_DIR$/week2/pracSlide113.py" />
         <option value="$PROJECT_DIR$/week2/pracLibrary.py" />
+        <option value="$PROJECT_DIR$/week2.1/ex.py" />
       </list>
     </option>
   </component>
@@ -144,7 +105,12 @@
             <path>
               <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="week2" type="462c0819:PsiDirectoryNode" />
+              <item name="week1.2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="week2.1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -155,7 +121,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -169,8 +135,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pracSlide92">
-    <configuration name="for" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ex">
+    <configuration name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2.1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/for.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2.1/ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,7 +208,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="pracSlide113" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pracSlide55" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,11 +216,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2.1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/pracSlide113.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2.1/pracSlide55.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -300,18 +266,18 @@
       <item itemvalue="Python.pracLibrary" />
       <item itemvalue="Python.pracSlide92" />
       <item itemvalue="Python.pracSlide109" />
-      <item itemvalue="Python.for" />
       <item itemvalue="Python.pracSlide111" />
       <item itemvalue="Python.pracSlide94" />
-      <item itemvalue="Python.pracSlide113" />
+      <item itemvalue="Python.ex" />
+      <item itemvalue="Python.pracSlide55" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex" />
+        <item itemvalue="Python.pracSlide55" />
         <item itemvalue="Python.pracSlide94" />
         <item itemvalue="Python.pracSlide109" />
         <item itemvalue="Python.pracSlide111" />
-        <item itemvalue="Python.pracSlide113" />
-        <item itemvalue="Python.for" />
       </list>
     </recent_temporary>
   </component>
@@ -339,20 +305,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20833333" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.329718" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17735043" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32943678" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32943678" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31344903" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31344903" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -462,13 +427,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week2/pracSlide113.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week2/pracLibrary.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -499,8 +457,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week2/pracSlide92.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="114">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/pracSlide113.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2.1/ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
