@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69d7cbe1-c992-4e4d-bfe9-f2470139a7a5" name="Default Changelist" comment="" />
+    <list default="true" id="69d7cbe1-c992-4e4d-bfe9-f2470139a7a5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/week2.1/pracSlide55.py" beforeDir="false" afterPath="$PROJECT_DIR$/week2.1/pracSlide55.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,11 +47,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/week2.1/ex.py">
+      <file leaf-file-name="pracSlide55.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week2.1/pracSlide55.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="133">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pracSlide57.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week2.1/pracSlide57.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pracLibrary.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week2.1/pracLibrary.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -78,6 +98,9 @@
         <option value="$PROJECT_DIR$/week2/pracSlide113.py" />
         <option value="$PROJECT_DIR$/week2/pracLibrary.py" />
         <option value="$PROJECT_DIR$/week2.1/ex.py" />
+        <option value="$PROJECT_DIR$/week2.1/pracSlide55.py" />
+        <option value="$PROJECT_DIR$/week2.1/pracSlide57.py" />
+        <option value="$PROJECT_DIR$/week2.1/pracLibrary.py" />
       </list>
     </option>
   </component>
@@ -135,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex">
+  <component name="RunManager" selected="Python.pracSlide55">
     <configuration name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,8 +296,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex" />
         <item itemvalue="Python.pracSlide55" />
+        <item itemvalue="Python.ex" />
         <item itemvalue="Python.pracSlide94" />
         <item itemvalue="Python.pracSlide109" />
         <item itemvalue="Python.pracSlide111" />
@@ -305,12 +328,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17735043" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32943678" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32943678" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32943678" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31344903" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31243357" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -472,7 +496,31 @@
     <entry file="file://$PROJECT_DIR$/week2.1/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1.2/pracSlide94.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2.1/pracSlide55.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2.1/pracSlide57.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2.1/pracLibrary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
         </state>
       </provider>
     </entry>
