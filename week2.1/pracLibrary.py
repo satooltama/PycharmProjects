@@ -1,3 +1,5 @@
+import math as m
+
 def split(se,ad,ju,ch):
     se = float(se)
     ad = float(ad)
@@ -28,3 +30,7 @@ def namesplit(name):
     lname = lname[0:2]
 
     return "{}.{}@tni.ac.th".format(lname,fname)
+
+def discal(x1,y1,x2,y2):
+
+    return m.sqrt(m.pow(x2-x1,2) + m.pow(y2-y1,2))
