@@ -34,3 +34,35 @@ def namesplit(name):
 def discal(x1,y1,x2,y2):
 
     return m.sqrt(m.pow(x2-x1,2) + m.pow(y2-y1,2))
+
+def _148calculator(weight):
+    avg = sum(weight)/len(weight)
+    aa = 0
+    ba = 0
+    ea = 0
+    for i in weight:
+        if i > avg:
+            aa += 1
+        elif i < avg:
+            ba += 1
+        elif i == avg:
+            ea += 1
+    return avg,aa,ba,ea
+
+def checkNumber(*amout,see):
+    if see == "max-min":
+        x = max(amout)
+        y = min(amout)
+    elif see == "ab-bl-av":
+        avg = sum(amout)/len(amout)
+        x,y = 0,0
+        for i in amout:
+            if i > avg:
+                x += 1
+            elif i < avg:
+                y += 1
+
+
+
+    return x,y
+
