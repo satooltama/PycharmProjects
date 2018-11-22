@@ -50,8 +50,8 @@
       <file leaf-file-name="pracExtra.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week2.2/pracExtra.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -339,11 +339,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="797" y="0" width="1130" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20604396" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20604396" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32943678" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31243357" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20191287" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -534,8 +535,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week2.2/pracExtra.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
