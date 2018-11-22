@@ -1,3 +1,5 @@
+from operator import itemgetter
+
 def line():
     print('*'*40)
 
@@ -39,12 +41,19 @@ def gradeScale(sum):
         return 'F'
 
 def _94main(score):
-
+    scorefinaltuple = []
 
     for i in range(len(score)):
-        scoresum(score[i][1],score[i][2],score[i][3])
-        print('Name = {}'.format(score[i][0]))
-        print('Score = {}'.format(scoresum(score[i][1],score[i][2],score[i][3])))
-        print('Grade = {}'.format(gradeScale(scoresum(score[i][1],score[i][2],score[i][3]))))
-        line()
+        scorefinal = ((score[i][0]),scoresum(score[i][1],score[i][2],score[i][3]))
+        scorefinaltuple.append(scorefinal)
 
+    scorefinalsorted = sorted(scorefinaltuple, key=itemgetter(1), reverse=True)
+
+    scorefinalsorted = tuple(scorefinalsorted)
+
+    for i in range(len(score)):
+
+        print('Name : {}'.format(scorefinalsorted[i][0]))
+        print('Score : {}'.format(scorefinalsorted[i][1]))
+        print('Grade : {}'.format(gradeScale(scorefinalsorted[i][1])))
+        line()

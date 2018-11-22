@@ -9,8 +9,11 @@ while True:
    Hom = int(input('Enter Homework : '))
    eachScore = (Name,Mid,Fin,Hom)
    score.append(eachScore)
+   line()
    Cont = input ('Continue Y/N : ')
+   line()
    if Cont.upper() == 'Y':
        break
+
 line()
 _94main(tuple(score))
