@@ -363,10 +363,10 @@
     <frame x="695" y="0" width="1232" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12981574" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12981574" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32943678" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2805526" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2805526" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32943678" />
