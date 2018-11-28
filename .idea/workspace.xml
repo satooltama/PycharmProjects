@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69d7cbe1-c992-4e4d-bfe9-f2470139a7a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PycharmProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PycharmProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="69d7cbe1-c992-4e4d-bfe9-f2470139a7a5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,29 +45,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pracSlide172.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week3.1/pracSlide172.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pracSlide170.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week3.1/pracSlide170.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pracSlide174.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pracSlide174.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week3.1/pracSlide174.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="569">
+            <state relative-caret-position="660">
               <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pracLibrary.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week3.1/pracLibrary.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pracSlide182.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week3.1/pracSlide182.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -115,11 +113,12 @@
         <option value="$PROJECT_DIR$/week2.2/pracLibrary.py" />
         <option value="$PROJECT_DIR$/week2.2/pracExtra.py" />
         <option value="$PROJECT_DIR$/week3.1/list.py" />
-        <option value="$PROJECT_DIR$/week3.1/pracLibrary.py" />
         <option value="$PROJECT_DIR$/week3.1/pracSlide164.py" />
         <option value="$PROJECT_DIR$/week3.1/pracSlide172.py" />
         <option value="$PROJECT_DIR$/week3.1/pracSlide170.py" />
         <option value="$PROJECT_DIR$/week3.1/pracSlide174.py" />
+        <option value="$PROJECT_DIR$/week3.1/pracLibrary.py" />
+        <option value="$PROJECT_DIR$/week3.1/pracSlide182.py" />
       </list>
     </option>
   </component>
@@ -192,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pracSlide172">
+  <component name="RunManager" selected="Python.pracSlide182">
     <configuration name="list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -283,6 +282,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="pracSlide182" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week3.1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week3.1/pracSlide182.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="pracSlide92" type="PythonConfigurationType" factoryName="Python">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -301,40 +318,22 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="pracTice" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2.2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2.2/pracTice.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
       <item itemvalue="Python.pracLibrary" />
       <item itemvalue="Python.pracSlide92" />
-      <item itemvalue="Python.pracTice" />
       <item itemvalue="Python.pracExtra" />
       <item itemvalue="Python.list" />
       <item itemvalue="Python.pracSlide164" />
       <item itemvalue="Python.pracSlide172" />
+      <item itemvalue="Python.pracSlide182" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pracSlide182" />
         <item itemvalue="Python.pracSlide172" />
         <item itemvalue="Python.pracSlide164" />
         <item itemvalue="Python.list" />
         <item itemvalue="Python.pracExtra" />
-        <item itemvalue="Python.pracTice" />
       </list>
     </recent_temporary>
   </component>
@@ -432,7 +431,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/week2/for.py" />
     <entry file="file://$PROJECT_DIR$/week2/pracLibrary.py" />
     <entry file="file://$PROJECT_DIR$/week2/pracSlide111.py" />
     <entry file="file://$PROJECT_DIR$/week2/pracSlide109.py" />
@@ -595,16 +593,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week3.1/pracLibrary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week2.2/pracTice2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -691,8 +679,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week3.1/pracSlide174.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
+        <state relative-caret-position="660">
           <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week3.1/pracSlide182.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week3.1/pracLibrary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
