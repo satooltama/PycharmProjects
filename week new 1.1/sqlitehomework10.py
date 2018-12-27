@@ -1,4 +1,7 @@
 import sqlite3
+import csv
+import os
+
 def generateData(db):
     try:
         with (sqlite3.connect(db)) as conn:
@@ -47,12 +50,8 @@ def insertDummyData(db):
 def updateProductPrice(db,id,incresepercent):
     try:
         with (sqlite3.connect(db)) as conn:
-            sql_update = """
-            update Products 
-            set price = ? 
-            where id = ?;
-            """
-            conn.executescript(sql_update,incresepercent,id)
+            sql_update = "update Products set price ="+incresepercent+"where id ="+id+";"
+            conn.executescript(sql_update)
     except Exception as e:
         print('Error{0}'.format(e))
 
@@ -60,25 +59,47 @@ def deleteProductID(db,id):
 
     try:
         with (sqlite3.connect(db)) as conn:
-            sql_delete = """
-            delete from Products where id={0}
-            """.format(id)
+            sql_delete = "delete from Products where id="+str(id)+";"
             conn.executescript(sql_delete)
     except Exception as e:
         print('Error{0}'.format(e))
 
+def file(value):
+    if os.path.exists("Database\ExportZeroStock.csv"):
+        with open("Database\ExportZeroStock.csv",mode="w") as f:
+            Writer=csv.writer(f, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL);
+            for i in range(len(value)):
+                Writer.writerow(list(value[i]))
+
+    else:
+        with open("Database\ExportZeroStock.csv",mode="x") as f:
+            Writer=csv.writer(f, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL);
+            for i in range(len(value)):
+                Writer.writerow(list(value[i]))
+
+
 def exportZeroStock(db):
+    sqlcommand="select * from product"
+    subdata=[]
+    ZeroStock=[]
     try:
         with (sqlite3.connect(db)) as conn:
-
-            sql_export = """
-            select * from Products where stock == 0;
-            """
-            conn.executescript(sql_export)
+             cursor = conn.execute(sqlcommand)
+             for i in cursor:
+                 subdata.append(i)
+             for i in range(len(subdata)):
+                 if (subdata[i][3]==0):
+                     ZeroStock.append(subdata[i])
+             file(ZeroStock)
     except Exception as e:
-        print('Error{0}'.format(e))
+        print(e)
+
 
 if __name__ == '__main__':
     dbapp = "mydatabase/mydatabase.sqlite3"
 
-    updateProductPrice(dbapp,8,)
+    #generateData(dbapp)
+    #insertDummyData(dbapp)
+    #updateProductPrice(dbapp,id,percent)
+    #deleteProductID(dbapp,id)
+    #exportZeroStock(dbapp)
